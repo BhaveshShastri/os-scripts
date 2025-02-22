@@ -1,0 +1,5 @@
+total 28
+-rwxr-xr-x 1 lazyg lazyg 16480 Feb 15 18:53 a.out
+-rw-r--r-- 1 lazyg lazyg     0 Feb 15 18:53 child_output.txt
+-rw-r--r-- 1 lazyg lazyg  1234 Feb 15 17:29 ex1.c
+-rw-r--r-- 1 lazyg lazyg  1250 Feb 15 17:31 ex2.c
